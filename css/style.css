@@ -23,6 +23,10 @@
 
 /*-----------END FONT-------------*/
 
+.nav-menu{
+  padding-bottom: 20px;
+}
+
 body {
   background: #ffffff;
   color: #898989;
@@ -243,12 +247,14 @@ nav ul li a {
 }
 
 .logo {
-  float: left;
+  margin-left: 70px; 
+  margin-top: -25px; 
 }
 
 .logo img {
-  width: 100px;
-  height: 50px;
+  width: 150px;
+  height: auto;
+  position: absolute;
 }
 
 .responsive {
@@ -602,7 +608,12 @@ nav ul li a {
   font-size: 13px;
 }
 
+.contact-contact{
+  margin-left: 100px;
+}
 
 
-
+#Jtim{
+  margin-left: 100px;
+}
 
